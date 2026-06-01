@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+Backend+Enthusiast;Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiPrashar&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiPrashar&theme=tokyonight" />
