@@ -1,163 +1,143 @@
-Skip to content
-PriyanshiPrashar
-PriyanshiPrashar
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
+# Hi, I'm Priyanshi Prashar 👋
 
-PriyanshiPrashar
-Public
-PriyanshiPrashar/PriyanshiPrashar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+Backend+Enthusiast;Problem+Solver;Always+Learning+New+Tech" />
+</p>
 
-t
-T
-Name		
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiPrashar&show_icons=true&theme=tokyonight" />
+</p>
 
-PriyanshiPrashar
-Create README.md
-85d0de7
- · 
-README.md
-Create README.md
-Repository files navigation
-README
-👋 Hi, I'm Priyanshi Prashar
-🚀 Full Stack Web Developer | Java Backend Enthusiast | Problem Solver
-🎓 Computer Science Student | Passionate about building real-world applications
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiPrashar&theme=tokyonight" />
+</p>
 
-🧑‍🎓 About Me
-Hello! I am Priyanshi Prashar, a Computer Science student passionate about software development and building scalable and practical web applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiPrashar&layout=compact&theme=tokyonight" />
+</p> -->
 
-🎓 Pursuing B.Tech / BCA in Computer Science
-🏫 Studying at Chandigarh Group of Colleges (CGC)
-💻 Interested in Full Stack Development
-⚙️ Focused on Java, Spring Boot, and Web Technologies
-🚀 Love building real-world projects and learning new tech
-📈 Constantly improving my coding and problem-solving skills
-💼 Career Goal
-My goal is to become a Software Engineer in a reputed tech company, working on scalable backend systems and impactful software products.
+---
 
-⚙️ Tech Stack
-💻 Frontend
-HTML5, CSS3, JavaScript
-Responsive UI Design
-⚙️ Backend
-Java (Core + Advanced)
-Spring Boot
-REST APIs
-Node.js (basic knowledge)
-🗄️ Database
-MySQL
-MongoDB
-🔧 Tools
-Git & GitHub
-VS Code
-Postman
-Maven
-🚀 Projects
-🔐 Vaultify – Full Stack Password Manager
-Vaultify is a secure full-stack password manager web application designed to safely store and manage user credentials.
+## About Me
 
-It allows users to create accounts, log in securely, and store sensitive information like passwords in an organized dashboard.
+- Computer Science student focused on real-world software development  
+- Studying at Chandigarh Group of Colleges (CGC), Punjab  
+- Passionate about Full Stack Development & Backend Engineering  
+- Interested in Java, Spring Boot, and scalable systems  
+- Always learning and improving problem-solving skills  
 
-Key Features:
+---
 
-Secure user authentication system
-Session-based login management
-Dashboard to manage stored credentials
-Dynamic sidebar showing user information
-Clean and responsive UI design
-Tech Stack: Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+## Career Objective
 
-🧠 AI Communication Test System
-This project is an AI-based communication test platform designed to simulate timed online assessments.
+To become a Software Engineer in a reputed organization and contribute to building scalable, efficient, and impactful software solutions.
 
-Key Features:
+---
 
-Timer-based test environment
-User response evaluation flow
-Structured question-answer interface
-Simple and interactive UI
-Tech Stack: HTML, CSS, JavaScript
+## 🚀 Tech Stack
 
-📊 Java Programming Practice Projects
-A collection of core Java practice programs focused on strengthening programming fundamentals.
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" />
+</p>
 
-Key Features:
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge" />
+</p>
 
-Array and string problems
-OOP concepts practice
-Basic DSA implementations
-Logical problem-solving exercises
-Tech Stack: Core Java
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge" />
+</p>
 
-🌐 Web UI Projects
-A set of frontend UI projects built for practice and improving design skills.
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge" />
+</p>
 
-Key Features:
+---
 
-Responsive web pages
-Modern UI design practice
-Clean layout structure
-Interactive frontend components
-Tech Stack: HTML, CSS, JavaScript
+## 📌 Projects
 
-🏫 College Information
-🎓 Institution: Chandigarh Group of Colleges (CGC)
-📚 Branch: Computer Science / IT
-📍 Location: Himachal Pradesh, India
-🧠 Focus Areas: Software Engineering, Web Development, DBMS, DSA
-📫 Contact Me
-📧 Email: priyanshiprashar0@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/priyanshi-prashar-606bb8306
-🌐 Portfolio: https://6a189fb3b8a8a7e800f65b2e--fanciful-meerkat-1b0845.netlify.app/
-🐙 GitHub: https://github.com/PriyanshiPrashar
-⚡ Developer Mindset
-“I don’t just write code — I build solutions that solve real-world problems.”
+### 🔐 Vaultify – Password Manager
+Secure full-stack password manager to store and manage credentials.
 
-PriyanshiPrashar/PriyanshiPrashar is a special repository.
+**Features:**
+- User authentication & session login  
+- Secure credential storage  
+- User dashboard  
+- Responsive UI  
 
-Its README.md will appear on your public profile.
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JS  
 
- 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors
-1
+---
 
-PriyanshiPrashar Priyanshi
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+### 🧠 AI Communication Test System
+Timed assessment platform for communication evaluation.
+
+**Features:**
+- Timer-based test flow  
+- Question & answer system  
+- Response tracking  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+### ☕ Java Programming Practice
+Core Java practice programs for logic building and DSA.
+
+**Features:**
+- Arrays & Strings  
+- OOP concepts  
+- Problem-solving exercises  
+
+---
+
+### 🎨 Web UI Projects
+Frontend UI projects for responsive design practice.
+
+**Features:**
+- Modern layouts  
+- Responsive design  
+- Interactive components  
+
+---
+
+## 🎓 Education
+
+Chandigarh Group of Colleges (CGC)  
+B.Tech / BCA – Computer Science  
+Punjab, India  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:priyanshiprashar0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshi-prashar-606bb8306">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" />
+  </a>
+  <a href="https://6a189fb3b8a8a7e800f65b2e--fanciful-meerkat-1b0845.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> "I don’t just write code — I build scalable solutions that solve real problems."
