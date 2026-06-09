@@ -117,7 +117,7 @@ Frontend UI projects for responsive design practice.
 ## 🎓 Education
 
 Chandigarh Group of Colleges (CGC)  
-B.Tech / BCA – Computer Science  
+B.Tech – Information Technology  
 Punjab, India  
 
 ---
