@@ -20,7 +20,7 @@
 
 ## About Me
 
-- Computer Science student focused on real-world software development  
+- Information Technology student focused on real-world software development  
 - Studying at Chandigarh Group of Colleges (CGC), Punjab  
 - Passionate about Full Stack Development & Backend Engineering  
 - Interested in Java, Spring Boot, and scalable systems  
